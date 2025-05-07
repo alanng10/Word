@@ -53,3 +53,7 @@ Word has major.
 Word make has major.
 
 Word make has struct.
+
+Word make has park mark.
+
+Word make has park cross.
