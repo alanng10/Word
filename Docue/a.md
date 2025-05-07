@@ -49,3 +49,5 @@ Word has park kind arch marry.
 Word has park kind arch land.
 
 Word has major.
+
+Word make has major.
