@@ -51,3 +51,5 @@ Word has park kind arch land.
 Word has major.
 
 Word make has major.
+
+Word make has struct.
