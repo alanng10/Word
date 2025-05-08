@@ -48,14 +48,10 @@ Word has park kind arch marry.
 
 Word has park kind arch land.
 
-Word has major.
+Word has park mark.
 
-Word make has major.
+Word has park cross.
 
-Word make has park apply.
+Word has park make.
 
-Word make has park struct.
-
-Word make has park mark.
-
-Word make has park cross.
+Word has major. 
