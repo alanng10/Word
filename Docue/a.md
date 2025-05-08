@@ -52,7 +52,7 @@ Word has major.
 
 Word make has major.
 
-Word mark has park apply
+Word mark has park apply.
 
 Word make has park struct.
 
