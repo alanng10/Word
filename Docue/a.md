@@ -57,3 +57,5 @@ Word has park make.
 Word has park class.
 
 Word has major.
+
+Word has major on noun.
