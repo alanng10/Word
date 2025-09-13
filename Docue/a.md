@@ -59,3 +59,5 @@ Word has park class.
 Word has major.
 
 Word has major on noun.
+
+Word has park pronounce.
